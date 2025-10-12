@@ -36,6 +36,7 @@ My research tries to understand the broad picture of the financial market and in
    In this paper, I present the first comprehensive, around-the-clock analysis of systematic jump risk by combining high-frequency market data with contemporaneous news narratives identified as the underlying causes of market jumps. These narratives are retrieved and classified using a state-of-the-art open-source reasoning LLM. Decomposing market risk into interpretable jump categories reveals significant heterogeneity in risk premia, with macroeconomic news commanding the largest and most persistent premium. Leveraging this insight, I construct an annually rebalanced real-time strategy that hedges the most priced jump risk, achieving a high out-of-sample Sharpe ratio and delivering significant alphas relative to standard factor models. The results highlight the value of around-the-clock analysis and LLM-based narrative understanding for identifying and managing priced risks in real time.
    
    </details>
+   <br>
    
    *Selected Conferences:* 21st Annual Olin Finance Conference Poster Session (2025), AFA Poster Session (2026)
 
