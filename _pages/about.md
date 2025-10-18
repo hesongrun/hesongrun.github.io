@@ -40,7 +40,7 @@ My research tries to understand the broad picture of the financial market and in
    *Selected Conferences:* 21st Annual Olin Finance Conference Poster Session (2025), AFA Poster Session (2026)
 
 3. [**Chronologically Consistent Large Language Models**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5159615) (with [Linying Lv](https://www.linyinglv.com/), [Asaf Manela](https://asafmanela.github.io/), and [Jimmy Wu](https://sites.wustl.edu/jimmywu/))\
-   **Invited for Submission and Revise & Resubmit at Journal of Financial Economics**
+   **Revise & Resubmit at Journal of Financial Economics**
 
    *Selected Conferences:* NBER Summer Institute (2025), AFA (2026, scheduled), ABFR Webinar (2025), Federal Reserve Board (2025)
 
