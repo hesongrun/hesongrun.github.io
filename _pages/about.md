@@ -49,7 +49,7 @@ My research tries to understand the broad picture of the financial market and in
 
    *Selected Conferences:* Utah Winter Finance Conference (2024), Virtual Derivatives Workshop (2024) 
 
-5. [**Empirical Asset Pricing with Probability Forecasts**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4717935) (with [Linying Lv](https://www.linyinglv.com/), and [Guofu Zhou](https://guofuzhou.github.io/))
+5. [**Empirical Asset Pricing with Probability Forecasts**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4717935) (with [Linying Lv](https://www.linyinglv.com/), and [Guofu Zhou](https://guofuzhou.github.io/))  
   **Revise & Resubmit at Management Science**   
 
    *Selected Conferences:* AFA (2025), 8th Wolfe Research QES (2024)
