@@ -49,15 +49,16 @@ My research tries to understand the broad picture of the financial market and in
 
    *Selected Conferences:* Utah Winter Finance Conference (2024), Virtual Derivatives Workshop (2024) 
 
-5. [**Empirical Asset Pricing with Probability Forecasts**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4717935) (with [Linying Lv](https://www.linyinglv.com/), and [Guofu Zhou](https://guofuzhou.github.io/))  
+5. [**Empirical Asset Pricing with Probability Forecasts**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4717935) (with [Linying Lv](https://www.linyinglv.com/), and [Guofu Zhou](https://guofuzhou.github.io/))
+  **Revise & Resubmit at Management Science**   
 
    *Selected Conferences:* AFA (2025), 8th Wolfe Research QES (2024)
 
-6. [**ETFs, Anomalies, and Market Efficiency**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4056260) (with [Ilias Filippou](https://sites.google.com/view/iliasfilippou/home), [Sophia Zhengzi Li](https://sites.google.com/site/szlwebpage), and [Guofu Zhou](https://guofuzhou.github.io/))
+7. [**ETFs, Anomalies, and Market Efficiency**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4056260) (with [Ilias Filippou](https://sites.google.com/view/iliasfilippou/home), [Sophia Zhengzi Li](https://sites.google.com/site/szlwebpage), and [Guofu Zhou](https://guofuzhou.github.io/))
 
    *Selected Conferences:* WFA (2023), NFA(2023), AFS(2025), FutFin(2023)
 
-7. [**Principal Portfolios: The Multi-Signal Case**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4245333) (with [Ming Yuan](https://www.columbia.edu/~my2550/) and [Guofu Zhou](https://guofuzhou.github.io/))  
+8. [**Principal Portfolios: The Multi-Signal Case**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4245333) (with [Ming Yuan](https://www.columbia.edu/~my2550/) and [Guofu Zhou](https://guofuzhou.github.io/))  
   <!-- **Reject & Resubmit at Management Science**   -->
    
 7. [**How Accurate are Survey Forecasts on the Market**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4390165) (with [Jiaen Li](https://sites.google.com/view/jiaenli/home), [Linying Lv](https://www.linyinglv.com/), and [Guofu Zhou](https://guofuzhou.github.io/))
