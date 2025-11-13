@@ -37,7 +37,7 @@ My research tries to understand the broad picture of the financial market and in
    <br>
    </details>
    
-   *Selected Conferences:* 21st Annual Olin Finance Conference Poster Session (2025), AFA Poster Session (2026)
+   *Selected Conferences:* IMIM Rising Stars Seminar Series (2025), 21st Annual Olin Finance Conference Poster Session (2025), AFA Poster Session (2026)
 
 3. [**Chronologically Consistent Large Language Models**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5159615) (with [Linying Lv](https://www.linyinglv.com/), [Asaf Manela](https://asafmanela.github.io/), and [Jimmy Wu](https://sites.wustl.edu/jimmywu/))\
    **Revise & Resubmit at Journal of Financial Economics**
