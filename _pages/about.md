@@ -63,5 +63,5 @@ My research tries to understand the broad picture of the financial market and in
    
 7. [**How Accurate are Survey Forecasts on the Market**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4390165) (with [Jiaen Li](https://sites.google.com/view/jiaenli/home), [Linying Lv](https://www.linyinglv.com/), and [Guofu Zhou](https://guofuzhou.github.io/))
 
-8. [**Chronologically Consistent Generative AI**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5348747) (with [Linying Lv](https://www.linyinglv.com/), [Asaf Manela](https://asafmanela.github.io/), and [Jimmy Wu](https://sites.wustl.edu/jimmywu/))
+8. [**Instruction Tuning Chronologically Consistent Language Models**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5348747) (with [Linying Lv](https://www.linyinglv.com/), [Asaf Manela](https://asafmanela.github.io/), and [Jimmy Wu](https://sites.wustl.edu/jimmywu/))
 
