@@ -28,7 +28,7 @@ My research tries to understand the broad picture of the financial market and in
   BSc in Finance (2015–2019)  
 
 ## Working Papers
-1. [**Interpretable Systematic Risk around the Clock**](https://songrunhe.com) *(Job Market Paper)*
+1. [**Interpretable Systematic Risk around the Clock**](https://www.dropbox.com/scl/fi/5x06i90ebzkfcyf8bsy8a/JMP_Songrun_He.pdf?rlkey=uon1fovh9rjej4ss744houp2k&st=y7jdto56&dl=0) *(Job Market Paper)*
 
    <details>
    <summary>Abstract</summary>
@@ -37,7 +37,7 @@ My research tries to understand the broad picture of the financial market and in
    <br>
    </details>
    
-   *Selected Conferences:* IMIM Rising Stars Seminar Series (2025), 21st Annual Olin Finance Conference Poster Session (2025), AFA Poster Session (2026)
+   *Selected Conferences:* ABFR Doctoral Research Symposium (2025), IMIM Rising Stars Seminar Series (2025), 21st Annual Olin Finance Conference Poster Session (2025), AFA Poster Session (2026)
 
 3. [**Chronologically Consistent Large Language Models**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5159615) (with [Linying Lv](https://www.linyinglv.com/), [Asaf Manela](https://asafmanela.github.io/), and [Jimmy Wu](https://sites.wustl.edu/jimmywu/))\
    **Revise & Resubmit at Journal of Financial Economics**
