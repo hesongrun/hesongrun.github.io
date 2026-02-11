@@ -12,8 +12,6 @@ Welcome to my website! I am a Ph.D. candidate in Finance at WashU Olin Business 
 
 My research tries to understand the broad picture of the financial market and institutions: how expected returns vary over business cycles and across different assets, how holdings and volumes change in response to the market environment, and how heterogeneity in investors' belief plays out in trading and price formation.
 
-**I am on the 2025-2026 job market.**
-
 ### Contact
 - h.songrun@wustl.edu
 
