@@ -12,6 +12,8 @@ Welcome to my website! I am a Ph.D. candidate in Finance at WashU Olin Business 
 
 My research tries to understand the broad picture of the financial market and institutions: how expected returns vary over business cycles and across different assets, how holdings and volumes change in response to the market environment, and how heterogeneity in investors' belief plays out in trading and price formation.
 
+**I will be joining CUHK as an Assistant Professor of Finance in Fall 2026.**
+
 ### Contact
 - h.songrun@wustl.edu
 
@@ -40,7 +42,7 @@ My research tries to understand the broad picture of the financial market and in
 3. [**Chronologically Consistent Large Language Models**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5159615) (with [Linying Lv](https://www.linyinglv.com/), [Asaf Manela](https://asafmanela.github.io/), and [Jimmy Wu](https://sites.wustl.edu/jimmywu/))\
    **Revise & Resubmit at Journal of Financial Economics**
 
-   *Selected Conferences:* NBER Summer Institute (2025), AFA (2026, scheduled), ABFR Webinar (2025), Federal Reserve Board (2025)
+   *Selected Conferences:* NBER Summer Institute (2025), AFA (2026), ABFR Webinar (2025), Federal Reserve Board (2025)
 
 4. [**Fundamentals of Perpetual Futures**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4301150) (with [Asaf Manela](https://asafmanela.github.io/), [Omri Ross](https://sites.google.com/site/omriross/home), and [Victor von Wachter](https://www.linkedin.com/in/victor-von-wachter/))  
   **Revise & Resubmit at The Review of Financial Studies**
