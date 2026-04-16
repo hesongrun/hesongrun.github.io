@@ -28,7 +28,7 @@ My research tries to understand the broad picture of the financial market and in
   BSc in Finance (2015–2019)  
 
 ## Working Papers
-1. [**Interpretable Systematic Risk around the Clock**](https://www.dropbox.com/scl/fi/3c3wvxfq6pcowbxjs5pgc/JMP_Songrun_He_202601.pdf?rlkey=3bd1klyya5gzfnbb1d0uu1qj1&st=6243r2p9&dl=0) *(Job Market Paper)*
+1. [**Interpretable Systematic Risk around the Clock**](https://arxiv.org/abs/2604.13458) *(Job Market Paper)*
 
    <details>
    <summary>Abstract</summary>
