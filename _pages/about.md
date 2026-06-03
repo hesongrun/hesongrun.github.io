@@ -54,7 +54,7 @@ My research tries to understand the broad picture of the financial market and in
 
    *Selected Conferences:* AFA (2025), 8th Wolfe Research QES (2024)
 
-7. [**ETFs, Anomalies, and Market Efficiency**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4056260) (with [Ilias Filippou](https://sites.google.com/view/iliasfilippou/home), [Sophia Zhengzi Li](https://sites.google.com/site/szlwebpage), and [Guofu Zhou](https://guofuzhou.github.io/))
+7. [**ETFs, Anomalies, and Market Efficiency**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4056260) (with [Ilias Filippou](https://sites.google.com/view/iliasfilippou/home), [Sophia Zhengzi Li](https://sites.google.com/site/szlwebpage), and [Guofu Zhou](https://guofuzhou.github.io/))  
   **Invited for submission**
 
    *Selected Conferences:* WFA (2023), NFA(2023), AFS(2025), FutFin(2023)
