@@ -22,7 +22,7 @@ repository               : "hesongrun/hesongrun.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "54435.JPG"
+  avatar           : "square_portrait.jpg"
   name             : "Songrun He (何松润)"
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor of Finance at CUHK Business School"
