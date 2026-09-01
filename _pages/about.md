@@ -8,24 +8,27 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website! I am a Ph.D. candidate in Finance at WashU Olin Business School. My research interests include AI for finance, empirical asset pricing, investment strategies, asset management, and high-frequency finance. I am fortunate to be advised by Prof. [Asaf Manela](https://asafmanela.github.io/) and Prof. [Guofu Zhou](https://apps.olin.wustl.edu/faculty/zhou/).
+Welcome to my website! I am an Assistant Professor of Finance at CUHK Business School, The Chinese University of Hong Kong. My research interests include AI for finance, empirical asset pricing, investment strategies, asset management, and high-frequency finance.
 
-My research tries to understand the broad picture of the financial market and institutions: how expected returns vary over business cycles and across different assets, how holdings and volumes change in response to the market environment, and how heterogeneity in investors' belief plays out in trading and price formation.
+My research studies how information, investor behavior, and market structure shape asset prices. I am particularly interested in using large-scale data and AI methods to understand how expected returns vary across assets and over time, how investors respond to changing market environments, and how heterogeneity in beliefs affects trading and price formation.
 
-**I will be joining CUHK as an Assistant Professor of Finance in Fall 2026.**
+I received my Ph.D. in Finance from Washington University in St. Louis, where I was fortunate to be advised by Prof. [Asaf Manela](https://asafmanela.github.io/) and Prof. [Guofu Zhou](https://apps.olin.wustl.edu/faculty/zhou/).
+
+I am a Ph.D. candidate in Finance at WashU Olin Business School. My research interests include AI for finance, empirical asset pricing, investment strategies, asset management, and high-frequency finance. I am fortunate to be advised by Prof. [Asaf Manela](https://asafmanela.github.io/) and Prof. [Guofu Zhou](https://guofuzhou.github.io/).
+
 
 ### Contact
-- h.songrun@wustl.edu
+- songrunhe@cuhk.edu.hk
 
 ## Education
 - **Washington University in St. Louis**, Olin Business School  
-  Ph.D. in Finance (2021–present)  
+  Ph.D. in Finance, 2026  
 
 - **The University of Chicago**, Social Science Division  
-  MA in Economics (2019-2021)
+  MA in Economics, 2021
 
 - **Central University of Finance and Economics**, School of Finance  
-  BSc in Finance (2015–2019)  
+  BSc in Finance, 2019
 
 ## Working Papers
 1. [**Interpretable Systematic Risk around the Clock**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6579418) *(Job Market Paper)*
@@ -40,7 +43,7 @@ My research tries to understand the broad picture of the financial market and in
    *Selected Conferences:* ABFR Doctoral Research Symposium (2025), IMIM Rising Stars Seminar Series (2025), 21st Annual Olin Finance Conference Poster Session (2025), AFA Poster Session (2026)
 
 3. [**Chronologically Consistent Large Language Models**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5159615) (with [Linying Lv](https://www.linyinglv.com/), [Asaf Manela](https://asafmanela.github.io/), and [Jimmy Wu](https://sites.wustl.edu/jimmywu/))\
-   **Revise & Resubmit at Journal of Financial Economics**
+   **Accepted at Journal of Financial Economics**
 
    *Selected Conferences:* NBER Summer Institute (2025), AFA (2026), ABFR Webinar (2025), Federal Reserve Board (2025)
 
@@ -55,7 +58,6 @@ My research tries to understand the broad picture of the financial market and in
    *Selected Conferences:* AFA (2025), 8th Wolfe Research QES (2024)
 
 7. [**ETFs, Anomalies, and Market Efficiency**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4056260) (with [Ilias Filippou](https://sites.google.com/view/iliasfilippou/home), [Sophia Zhengzi Li](https://sites.google.com/site/szlwebpage), and [Guofu Zhou](https://guofuzhou.github.io/))  
-  **Invited for submission**
 
    *Selected Conferences:* WFA (2023), NFA(2023), AFS(2025), FutFin(2023)
 
