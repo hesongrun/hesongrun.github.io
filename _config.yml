@@ -25,11 +25,11 @@ author:
   avatar           : "headshot_square.png"
   name             : "Songrun He (何松润)"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. Candidate in Finance at Olin Business School"
-  location         : "St. Louis, USA"
-  employer         : "Washington University in St. Louis"
+  bio              : "Assistant Professor of Finance at CUHK Business School"
+  location         : "Shatin, Hong Kong"
+  employer         : "The Chinese University of Hong Kong"
   uri              : # URL
-  email            : "h.songrun@wustl.edu" 
+  email            : "songrunhe@cuhk.edu.hk" 
 
   # Academic websites
   academia         : # URL
