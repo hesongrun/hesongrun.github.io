@@ -12,10 +12,7 @@ Welcome to my website! I am an Assistant Professor of Finance at CUHK Business S
 
 My research studies how information, investor behavior, and market structure shape asset prices. I am particularly interested in using large-scale data and AI methods to understand how expected returns vary across assets and over time, how investors respond to changing market environments, and how heterogeneity in beliefs affects trading and price formation.
 
-I received my Ph.D. in Finance from Washington University in St. Louis, where I was fortunate to be advised by Prof. [Asaf Manela](https://asafmanela.github.io/) and Prof. [Guofu Zhou](https://apps.olin.wustl.edu/faculty/zhou/).
-
-I am a Ph.D. candidate in Finance at WashU Olin Business School. My research interests include AI for finance, empirical asset pricing, investment strategies, asset management, and high-frequency finance. I am fortunate to be advised by Prof. [Asaf Manela](https://asafmanela.github.io/) and Prof. [Guofu Zhou](https://guofuzhou.github.io/).
-
+I received my Ph.D. in Finance from Washington University in St. Louis, where I was fortunate to be advised by Prof. [Asaf Manela](https://asafmanela.github.io/) and Prof. [Guofu Zhou](https://guofuzhou.github.io/).
 
 ### Contact
 - songrunhe@cuhk.edu.hk
